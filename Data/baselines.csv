@@ -1,11 +1,13 @@
-﻿Test,Sex,Poor,Elite
-approach_jump,Female,102,120
-approach_jump,Male,120,138
-standing_vertical_jump,Female,15,24
-standing_vertical_jump,Male,18,29
-pro_agility,Female,4.8,4.2
-pro_agility,Male,4.6,4
-10m_sprint,Female,2.2,1.84
-10m_sprint,Male,2,1.69
-reactive_strength_index,Female,1.5,2.4
-reactive_strength_index,Male,1.8,3
+Metric,Gender,Poor,Elite
+standing vertical (in),Male,18,29
+Approach vertical (in),Male,15,27
+Approach touch (ft),Male,10,11.5
+Pro Agility,Male,4.6,4
+10m sprint,Male,2,1.69
+RSI,Male,1.8,3
+standing vertical (in),Female,15,24
+Approach vertical (in),Female,20,40
+Approach touch (ft),Female,8.5,10
+Pro Agility,Female,4.8,4.2
+10m sprint,Female,2.2,1.84
+RSI,Female,1.5,2.4
